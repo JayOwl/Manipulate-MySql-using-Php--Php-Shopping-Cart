@@ -1,0 +1,22 @@
+#wrapper {
+    background-color: lightblue;
+    width: 500px;
+    padding: 15px;
+}
+table{
+    width: 500px;
+    background-color: lightblue;
+    border-collapse: collapse;
+}
+th {
+    text-align: left;
+}
+.styled {
+    background-color: white;
+}
+td {
+    padding: 5px
+}
+.center {
+    padding-left: 15px;
+}
